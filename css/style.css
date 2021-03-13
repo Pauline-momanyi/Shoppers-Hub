@@ -1,0 +1,19 @@
+#logo{
+	align: center;
+	background-color: blue;
+}
+.about{
+	font-style: italic;
+	font-family: sans-serif;
+	font-weight: bolder;
+	color: rgb(123,120,67);
+}
+.bg-img{
+	background-image: url("../images/logo.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	filter: blur(80px);
+
+}
